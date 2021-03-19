@@ -4,6 +4,9 @@ plugins {
     id 'maven-publish'
 }
 
+group = 'pl.mdaw323'
+version = '1.0'
+
 repositories {
     mavenCentral()
 }
